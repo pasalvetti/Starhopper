@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{44D769D6-5129-4BA9-8EE7-0C02500E9DB7}") = "Starhopper", "src/Starhopper/Starhopper.csproj", "{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		DeployAndRun|Any CPU = DeployAndRun|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}.DeployAndRun|Any CPU.ActiveCfg = DeployAndRun|Any CPU
+		{63AE7C35-B24D-4EDA-9AD5-5E76A27C298D}.DeployAndRun|Any CPU.Build.0 = DeployAndRun|Any CPU
+	EndGlobalSection
+EndGlobal
