@@ -5,7 +5,7 @@ A simple mod for Kerbal Space Program 2 that adds parts to recreate SpaceX's Sta
 * Spacedock: https://spacedock.info/mod/3476/Starhopper
 * Release: https://github.com/pasalvetti/Starhopper/releases (grab the .zip file)
 * Forum: https://forum.kerbalspaceprogram.com/topic/219818-starhopper-100/
-* Contact: KSP 2 Modding Society
+* Contact: [KSP 2 Modding Society](https://discord.com/channels/1078696971088433153/1160311640961593435)
 
 # Description
 A simple mod for Kerbal Space Program 2 that adds parts to recreate SpaceX's Starhopper.
