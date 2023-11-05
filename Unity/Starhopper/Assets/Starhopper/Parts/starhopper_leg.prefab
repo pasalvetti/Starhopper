@@ -143,7 +143,7 @@ MonoBehaviour:
       explosionPotential: 0.5
       fuelCrossFeed: 1
       heatConductivity: 0.12
-      mass: 1
+      mass: 2.5
       maxTemp: 2000
       attachRules:
         stack: 1
